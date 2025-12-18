@@ -72,7 +72,7 @@ This feedback repository covers all components of the Space Launch Now ecosystem
 
 - **Space Launch Now Website** - Web application for tracking launches and space events
 - **Space Launch Now Mobile Apps** - iOS and Android applications with notifications and detailed launch information
-- **Space Launch Now API** - Backend API powering the ecosystem
+- **Space Launch Now Server** - Backend services powering the ecosystem
 
 For links to specific projects and more information, please visit the [Space Launch Now organization](https://github.com/space-launch-now) on GitHub.
 

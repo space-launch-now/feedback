@@ -4,7 +4,6 @@ about: Report a bug, request a feature, or provide feedback
 title: ''
 labels: ''
 assignees: ''
-
 ---
 
 ## Type of Issue
